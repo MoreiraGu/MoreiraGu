@@ -12,6 +12,16 @@
 
 ---
 
+## 🛠️ Projetos em Destaque
+
+- 🔐 [ESUL](https://github.com/MoreiraGu/ESUL)  
+  Sistema de gestão com banco de dados portátil, Java embutido e integração com IA local.
+  > Java • MySQL • Launch4j • WiX Toolset • Ollama
+
+*(Adicione mais projetos conforme for publicando)*
+
+---
+
 ## 🚀 Tecnologias que uso no dia a dia
 
 <div style="display: inline_block">
@@ -45,7 +55,7 @@
 
 ## 📫 Entre em contato comigo
 
-[![LinkedIn](https://img.shields.io/badge/-gustavo--moreira--43120027b-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-43120027b/)
+[![LinkedIn](https://img.shields.io/badge/-Gustavo%20Moreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-43120027b/)
 [![Gmail](https://img.shields.io/badge/-gu.omoreira7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gu.omoreira7@gmail.com)
 
 ---
