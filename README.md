@@ -18,8 +18,6 @@
   Sistema de gestão com banco de dados portátil, Java embutido e integração com IA local.
   > Java • MySQL • Launch4j • WiX Toolset • Ollama
 
-*(Adicione mais projetos conforme for publicando)*
-
 ---
 
 ## 🚀 Tecnologias que uso no dia a dia
