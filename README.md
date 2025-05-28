@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Gustavo%20Moreira&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Banner" />
+</p>
+
 <h1 align="center">Olá! Eu sou o Gustavo Moreira 👋</h1>
 
 <p align="center">
