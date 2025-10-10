@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FATEC Prof. Jessen Vidal – São José dos Campos <br/>
-  💻 Apaixonado por tecnologia, software livre e soluções inteligentes <br/>
+  💻 Apaixonado por tecnologia e soluções inteligentes <br/>
   📍 São José dos Campos – SP, Brasil
 </p>
 
