@@ -52,7 +52,7 @@
 > O `for (nosso; de cada dia; nos dai hoje++)`  
 > Debugai as nossas sentenças  
 > Assim como nós colocamos o **ponto e vírgula esquecido**  
->   Não nos deixeis errar indentação  
+>   Não nos deixeis errar identação  
 > Mas livrai-nos das funções recursivas  
 > 🙏 **A main()**
  
